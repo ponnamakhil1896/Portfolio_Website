@@ -1,0 +1,52 @@
+{
+  "portfolio": [
+    {
+      "sys": {"id": "1"},
+      "fields": {
+        "title": "FitnessGym",
+        "description": "This is a basic HTML and CSS website created for GYMs",
+        "details": [ "HTML5","CSS"],
+        "github": "https://github.com/ponnamakhil1896/FitnessGym"
+      },
+      "img":{
+        "fields": {
+          "file": {
+            "url": "./public/img/fitnessgym.png"
+          }
+        }
+      }
+    },
+    {
+      "sys": {"id": "2"},
+      "fields": {
+        "title": "ToDo App",
+        "description": "This is a ToDo Application made by React JS",
+        "details": [ "ReactJS"],
+        "github": "https://github.com/ponnamakhil1896/ToDoApplication"
+      },
+      "img":{
+        "fields": {
+          "file": {
+            "url": "./public/img/todo.png"
+          }
+        }
+      }
+    },
+    {
+      "sys": {"id": "3"},
+      "fields": {
+        "title": "E-commerce",
+        "description": "MERN E-commerce website to order tshirts(Under Construction)",
+        "details": [ "HTML5", "CSS3", "mongoDB","ReactJS","expressJS","node"],
+        "github": "https://github.com/ponnamakhil1896/EcommerceWebsite"
+      },
+      "img":{
+        "fields": {
+          "file": {
+            "url": "./public/img/ecommerce.jpg"
+          }
+        }
+      }
+    }
+  ]
+}
